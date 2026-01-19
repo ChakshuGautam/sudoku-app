@@ -1,6 +1,6 @@
 import type { Board } from '../utils/sudoku';
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://api.sudoku.theflywheel.in';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://v2-api.sudoku.theflywheel.in';
 
 type Difficulty = 'easy' | 'medium' | 'hard';
 
