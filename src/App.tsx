@@ -222,7 +222,7 @@ function App() {
             <p className="text-sm text-muted-foreground text-center mt-2">
               Click a cell and use the number pad or keyboard (1-9) to fill in numbers.
               <br />
-              Use arrow keys to navigate.
+              Use arrow keys to navigate. Press Backspace to clear.
             </p>
           </CardContent>
         </Card>
